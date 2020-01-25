@@ -7,8 +7,8 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab03/pull/1)
-- [ci/cd](https://github.com/401-advanced-javascript-Dante/lab03/actions/runs/31213480) (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab04/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-Dante/lab04/actions/runs/31339700) (GitHub Actions)
 
 
 ### Setup
