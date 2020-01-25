@@ -1,0 +1,31 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Dante/lab04.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Dante/lab04/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Dante/lab04#readme"
+}
